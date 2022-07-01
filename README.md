@@ -34,4 +34,4 @@ gönderilen bitler serverda karşılanır. 1 ise ile "veya" edilir. Değilse bit
 
 ****
 
-pfffffff bu kadar. çok basit aslında :)
+pfffffff benim anlatacaklarım bu kadar. çok basit aslında :)
